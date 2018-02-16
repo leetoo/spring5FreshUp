@@ -8,4 +8,8 @@ You can learn about my Spring Framework 5 Online course
 [here.](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
 
 You can watch the progress of the app building by switching between branches starting from 
-the branch app-grow-progress-step-1
+the branch step001-{short-description}. Try to make steps as small as possible to enable easy 
+tracking pf the project progress. 
+
+progress: 
+ - add second controller - AuthorController and the second html -> authors.html 
