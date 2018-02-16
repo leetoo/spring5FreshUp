@@ -1,6 +1,5 @@
 # Compiled class file
 *.class
-*.idea
 
 # Log file
 *.log
@@ -12,6 +11,7 @@
 .mtj.tmp/
 
 # Package Files #
+*.idea
 *.jar
 *.war
 *.ear
