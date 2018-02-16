@@ -10,3 +10,5 @@ You can learn about my Spring Framework 5 Online course
 You can watch the progress of the app building by switching between branches starting from 
 the branch step001-{short-description}. Try to make steps as small as possible to enable easy 
 tracking pf the project progress. 
+
+step001 merge completed 
