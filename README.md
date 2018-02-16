@@ -1,4 +1,4 @@
-# Spring Framework 5: Beginner to Guru
+# Spring Framework 5: webApp bookstore 
 
 This repository is for an example application built by me for fun 
 
